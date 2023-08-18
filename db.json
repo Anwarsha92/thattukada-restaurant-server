@@ -1,0 +1,416 @@
+{
+    "restaurants": [
+      {
+        "id": 1,
+        "name": "കടയിൽ ഒരു തട്ടുകട",
+        "neighborhood": "Kochi",
+        "photograph": "https://lh5.googleusercontent.com/p/AF1QipMTx9R41phxOE4XUEkMAp0_J9jpgRapluJPapP5=w325-h218-n-k-no",
+        "address": "X7HM+9HM, Rajaji Rd, opp. Muthoot Capital Services, Shenoys, Kochi, Kerala 682035",
+        "latlng": {
+          "lat": 40.713829,
+          "lng": -73.989667
+        },
+        "cuisine_type": "Asian",
+        "operating_hours": {
+          "Monday": "5:30 pm - 11:00 pm",
+          "Tuesday": "5:30 pm - 12:00 am",
+          "Wednesday": "5:30 pm - 12:00 am",
+          "Thursday": "5:30 pm - 12:00 am",
+          "Friday": "5:30 pm - 12:00 am",
+          "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+          "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+        },
+        "reviews": [
+          {
+            "name": "Rahul Ramachandran",
+            "date": "October 26, 2022",
+            "rating": 4.5,
+            "comments": "Small resturant with variety of dishes. Tried fried rice combo & porotta-beef roast. Food is tasty and also  price is very reasonable."
+          },
+          {
+            "name": "Morgan",
+            "date": "October 26, 2022",
+            "rating": 3.5,
+            "comments": "Variety of rolls,sandwiches etc.. Really hot,spicy and delicious😍😋 Tried bread omlett beef. It was really deliciious.. 2 breads with rich fillings of beef and breads covered by onmlette and toppings by myonise, sauce and some veggies.. Loved a lot👌 and it's worth for the amount of rs. 100.."
+          },
+          {
+            "name": "Jason",
+            "date": "October 26, 2022",
+            "rating": 5,
+            "comments": "Good food with good atmosphere. I've dined here with my friends. This place have totaly different look. Not an open kitchen place like other restaurants. A small door to the kitchen and the dining area. We had ediyapam  and chilli  beef  half portion, bread omlet, chicken bread omlet. Chilli beef had good quantity. It had fresh taste and combination with ediyapam was very good. Bread omlet is something is I'm having first time in my life. And I'm not disappointed. Bread was soft. Omlet was perfectly cooked. With tomato sauce it was good."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "മായാവി തട്ടുകട",
+        "neighborhood": "Kochi",
+        "photograph": "https://lh3.googleusercontent.com/p/AF1QipPewmTSpLKriFf_z-vFIA3xSSU3C3NgnmEBfxck=s1360-w1360-h1020",
+        "address": "Kunnumpuram Junction, NH17, Edapally - Panvel Hwy, Kunnumpuram, Amrita Nagar, Edappally, Ernakulam, Kerala 682024",
+        "latlng": {
+          "lat": 40.683555,
+          "lng": -73.966393
+        },
+        "cuisine_type": "Pizza",
+        "operating_hours": {
+          "Monday": "5:30 pm - 11:00 pm",
+          "Tuesday": "5:30 pm - 11:00 pm",
+          "Wednesday": "5:30 pm - 11:00 pm",
+          "Thursday": "5:30 pm - 11:00 pm",
+          "Friday": "5:30 pm - 11:00 pm",
+          "Saturday": "5:00 pm - 11:30 pm",
+          "Sunday": "12:00 pm - 3:00 pm, 5:00 pm - 11:00 pm"
+        },
+        "reviews": [
+          {
+            "name": "Steph",
+            "date": "October 26, 2022",
+            "rating": 4,
+            "comments": "If you want to have thattukada food at midnight, this is the place. They have 3-4 varieties of beef and chixken usually. Puttu, porotta and idiyappam are accompanies. Crowded at midnight."
+          },
+          {
+            "name": "Steve",
+            "date": "October 26, 2022",
+            "rating": 4.5,
+            "comments": "This is one of the shops you can try out if you have midnight cravings while you are in Cheranelloor. This is also one of the shops that will open till 4 am in Cheranelloor"
+          },
+          {
+            "name": "Sam",
+            "date": "October 26, 2022",
+            "rating": 3.5,
+            "comments": "Great spot. Decently neat and well maintained. Fresh hot food.. loved the flavours of the curries.. they were just the perfect spice mix for the accompaniments..i tried their puttu, beef curry, chicken curry, parotta and sulaimani... All were perfectly flavoured and satisfying .."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "ഉപ്പും മുളകും തട്ടുകട",
+        "neighborhood": "Kochi",
+        "photograph": "https://lh3.googleusercontent.com/p/AF1QipOfaEttC4O5jV4BuUFnW8mKpqmkPphcrnraPBms=s1360-w1360-h1020",
+        "address": "X77W+63M, Panampilly Nagar Ave, Ramaswamy colony, Panampilly Nagar, Kochi, Kerala 682036",
+        "latlng": {
+          "lat": 40.747143,
+          "lng": -73.985414
+        },
+        "cuisine_type": "Asian",
+        "operating_hours": {
+          "Monday": "11:30 am - 2:00 am",
+          "Tuesday": "11:30 am - 2:00 am",
+          "Wednesday": "11:30 am - 2:00 am",
+          "Thursday": "11:30 am - 2:00 am",
+          "Friday": "11:30 am - 6:00 am",
+          "Saturday": "11:30 am - 6:00 am",
+          "Sunday": "11:30 am - 2:00 am"
+        },
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2022",
+            "rating": 4.5,
+            "comments": "We get tasty food for low price. When consider about hygien it is low as usual thattukadas. Some staff are well behaving but cashier uncle is some rude minded he may spoil your all impressions. We can get unlimited rice . Frying remains with chicken fry is really awesome with rice must try it there. There is no specific dine in space we ate in the footpaths ."
+          },
+          {
+            "name": "ZS",
+            "date": "October 26, 2022",
+            "rating": 5,
+            "comments": "I quite liked the experience. They have a more of a streamlined approach than their competitors because they have seperate kiosks for rice/breads and another for curries etc. This lets them serve a large number of people very quickly. The food was great and the price was a steal. The only negative factor is the lack of seating provided but technically that shouldn't be a factor at all considering its a roadside stall and it adds to the vibe of the place."
+          },
+          {
+            "name": "Emily",
+            "date": "October 26, 2022",
+            "rating": 2.5,
+            "comments": "MEH. I've tried their Jersey location as well but Kang Ho Dong meat quality is severely decreasing. A Korean bbq place with whatever meat? I think NOT!"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "ടോൾ തട്ടുകട",
+        "neighborhood": "Kochi",
+        "photograph": "https://lh3.googleusercontent.com/p/AF1QipPTRmZ85ZVv-MOXIVPqut1k5vX2tZFv6Cjg3Q3S=s1360-w1360-h1020",
+        "address": "28J6+6FX, Edappally Toll, Unnichira, Koonamthai, Edappally, Ernakulam, Kerala 682024",
+        "latlng": {
+          "lat": 40.722216,
+          "lng": -73.987501
+        },
+        "cuisine_type": "American",
+        "operating_hours": {
+          "Monday": "8:00 am - 10:30 pm",
+          "Tuesday": "8:00 am - 10:30 pm",
+          "Wednesday": "8:00 am - 10:30 pm",
+          "Thursday": "8:00 am - 2:30 am",
+          "Friday": "8:00 am - Sat",
+          "Saturday": "Open 24 hours",
+          "Sunday": "Sat - 10:30 pm"
+        },
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2022",
+            "rating": 5,
+            "comments": "Great spot. Decently neat and well maintained. Fresh hot food.. loved the flavours of the curries.. they were just the perfect spice mix for the accompaniments..i tried their puttu, beef curry, chicken curry, parotta and sulaimani... All were perfectly flavoured and satisfying .."
+          },
+          {
+            "name": "Allen",
+            "date": "October 26, 2022",
+            "rating": 5,
+            "comments": "Really good place for variety of non veg food. I loved Appam and chicken chukka which was chicken in thick gravy. In the end topped it with nice sweet lemon soda. Enjoyed it. Specially recommended if looking for late night food. Very reasonable price too."
+          },
+          {
+            "name": "David",
+            "date": "October 26, 2022",
+            "rating": 2.5,
+            "comments": "They had tasty food in affordable rate. Good place to hang out with friends at night. Their tea was so refreshing. The service staff are really friendly nd helpful. Orders are delivered on time without confusion. Tried chicken kondattam and was so good. The prices are also affordable."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "5 സ്റ്റാർ തട്ടുകട",
+        "neighborhood": "Brooklyn",
+        "photograph": "https://lh3.googleusercontent.com/p/AF1QipNdAwJiOYjlIrtTQCrK64dLbU2YQV5L1XT71QM2=s1360-w1360-h1020",
+        "address": "Dr George Rd, Kathrikadavu, Kaloor, Ernakulam, Kerala 682017",
+        "latlng": {
+          "lat": 40.705089,
+          "lng": -73.933585
+        },
+        "cuisine_type": "Pizza",
+        "operating_hours": {
+          "Monday": "11:00 am - 12:00 am",
+          "Tuesday": "11:00 am - 12:00 am",
+          "Wednesday": "11:00 am - 12:00 am",
+          "Thursday": "11:00 am - 12:00 am",
+          "Friday": "11:00 am - 12:00 am",
+          "Saturday": "10:00 am - 12:00 am",
+          "Sunday": "10:00 am - 12:00 am"
+        },
+        "reviews": [
+            {
+                "name": "Rahul Ramachandran",
+                "date": "October 26, 2022",
+                "rating": 4.5,
+                "comments": "Small resturant with variety of dishes. Tried fried rice combo & porotta-beef roast. Food is tasty and also  price is very reasonable."
+              },
+              {
+                "name": "Morgan",
+                "date": "October 26, 2022",
+                "rating": 3.5,
+                "comments": "Variety of rolls,sandwiches etc.. Really hot,spicy and delicious😍😋 Tried bread omlett beef. It was really deliciious.. 2 breads with rich fillings of beef and breads covered by onmlette and toppings by myonise, sauce and some veggies.. Loved a lot👌 and it's worth for the amount of rs. 100.."
+              },
+              {
+                "name": "Jason",
+                "date": "October 26, 2022",
+                "rating": 5,
+                "comments": "Good food with good atmosphere. I've dined here with my friends. This place have totaly different look. Not an open kitchen place like other restaurants. A small door to the kitchen and the dining area. We had ediyapam  and chilli  beef  half portion, bread omlet, chicken bread omlet. Chilli beef had good quantity. It had fresh taste and combination with ediyapam was very good. Bread omlet is something is I'm having first time in my life. And I'm not disappointed. Bread was soft. Omlet was perfectly cooked. With tomato sauce it was good."
+              }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "ബിലാലിൻ്റെ  തട്ടുകട",
+        "neighborhood": "Kochi",
+        "photograph": "https://lh3.googleusercontent.com/p/AF1QipOhfasZN9xz20SFZS6UvjQltikBmcOvoaasEgqT=s1360-w1360-h1020",
+        "address": "2827+MG6, Palarivattom, Ernakulam, Kerala 682028",
+        "latlng": {
+          "lat": 40.674925,
+          "lng": -74.016162
+        },
+        "cuisine_type": "American",
+        "operating_hours": {
+          "Monday": "Closed",
+          "Tuesday": "12:00 pm - 10:00 pm",
+          "Wednesday": "12:00 pm - 10:00 pm",
+          "Thursday": "12:00 pm - 10:00 pm",
+          "Friday": "12:00 pm - 11:00 pm",
+          "Saturday": "12:00 pm - 11:00 pm",
+          "Sunday": "12:00 pm - 9:00 pm"
+        },
+        "reviews": [
+            {
+                "name": "Steph",
+                "date": "October 26, 2022",
+                "rating": 4,
+                "comments": "If you want to have thattukada food at midnight, this is the place. They have 3-4 varieties of beef and chixken usually. Puttu, porotta and idiyappam are accompanies. Crowded at midnight."
+              },
+              {
+                "name": "Steve",
+                "date": "October 26, 2022",
+                "rating": 4.5,
+                "comments": "This is one of the shops you can try out if you have midnight cravings while you are in Cheranelloor. This is also one of the shops that will open till 4 am in Cheranelloor"
+              },
+              {
+                "name": "Sam",
+                "date": "October 26, 2022",
+                "rating": 3.5,
+                "comments": "Great spot. Decently neat and well maintained. Fresh hot food.. loved the flavours of the curries.. they were just the perfect spice mix for the accompaniments..i tried their puttu, beef curry, chicken curry, parotta and sulaimani... All were perfectly flavoured and satisfying .."
+              }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "പാത്തുമ്മാസ് തട്ടുകട",
+        "neighborhood": "Kochi",
+        "photograph": "https://lh3.googleusercontent.com/p/AF1QipNADKPWdwy0uN_CLWujrcvXIwJrZYA7dkpwSZyF=s1360-w1360-h1020",
+        "address": "452X+329, said, Sayed Mohammed Rd, Edavanakkad, Kerala 682502",
+        "latlng": {
+          "lat": 40.727397,
+          "lng": -73.983645
+        },
+        "cuisine_type": "American",
+        "operating_hours": {
+          "Monday": "11:30 am - 10:00 pm",
+          "Tuesday": "Closed",
+          "Wednesday": "11:30 am - 10:00 pm",
+          "Thursday": "11:30 am - 10:00 pm",
+          "Friday": "11:30 am - 10:00 pm",
+          "Saturday": "11:30 am - 10:00 pm",
+          "Sunday": "11:30 am - 10:00 pm"
+        },
+        "reviews": [
+            {
+                "name": "Steve",
+                "date": "October 26, 2022",
+                "rating": 5,
+                "comments": "Great spot. Decently neat and well maintained. Fresh hot food.. loved the flavours of the curries.. they were just the perfect spice mix for the accompaniments..i tried their puttu, beef curry, chicken curry, parotta and sulaimani... All were perfectly flavoured and satisfying .."
+              },
+              {
+                "name": "Allen",
+                "date": "October 26, 2022",
+                "rating": 5,
+                "comments": "Really good place for variety of non veg food. I loved Appam and chicken chukka which was chicken in thick gravy. In the end topped it with nice sweet lemon soda. Enjoyed it. Specially recommended if looking for late night food. Very reasonable price too."
+              },
+              {
+                "name": "David",
+                "date": "October 26, 2022",
+                "rating": 2.5,
+                "comments": "They had tasty food in affordable rate. Good place to hang out with friends at night. Their tea was so refreshing. The service staff are really friendly nd helpful. Orders are delivered on time without confusion. Tried chicken kondattam and was so good. The prices are also affordable."
+              }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "തട്ടുകടവ് തട്ടുകട",
+        "neighborhood": "Kochi",
+        "photograph": "https://lh3.googleusercontent.com/p/AF1QipN2TvrXkf6yUr6g5kIga6VK-tptFkciuKwpt8QI=s1360-w1360-h1020",
+        "address": "Thattukadav musriz, North Paravur, Kerala 683513",
+        "latlng": {
+          "lat": 40.726584,
+          "lng": -74.002082
+        },
+        "cuisine_type": "American",
+        "operating_hours": {
+          "Monday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
+          "Tuesday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
+          "Wednesday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
+          "Thursday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
+          "Friday": "11:30 am - 3:00 pm, 5:30 pm - 11:30 pm",
+          "Saturday": "10:00 am - 3:00 pm, 5:30 pm - 11:30 pm",
+          "Sunday": "10:00 am - 3:00 pm, 5:30 pm - 11:00 pm"
+        },
+        "reviews": [
+            {
+                "name": "Rahul Ramachandran",
+                "date": "October 26, 2022",
+                "rating": 4.5,
+                "comments": "Small resturant with variety of dishes. Tried fried rice combo & porotta-beef roast. Food is tasty and also  price is very reasonable."
+              },
+              {
+                "name": "Morgan",
+                "date": "October 26, 2022",
+                "rating": 3.5,
+                "comments": "Variety of rolls,sandwiches etc.. Really hot,spicy and delicious😍😋 Tried bread omlett beef. It was really deliciious.. 2 breads with rich fillings of beef and breads covered by onmlette and toppings by myonise, sauce and some veggies.. Loved a lot👌 and it's worth for the amount of rs. 100.."
+              },
+              {
+                "name": "Jason",
+                "date": "October 26, 2022",
+                "rating": 5,
+                "comments": "Good food with good atmosphere. I've dined here with my friends. This place have totaly different look. Not an open kitchen place like other restaurants. A small door to the kitchen and the dining area. We had ediyapam  and chilli  beef  half portion, bread omlet, chicken bread omlet. Chilli beef had good quantity. It had fresh taste and combination with ediyapam was very good. Bread omlet is something is I'm having first time in my life. And I'm not disappointed. Bread was soft. Omlet was perfectly cooked. With tomato sauce it was good."
+              }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "നാടൻ തട്ടുകട",
+        "neighborhood": "Kochi",
+        "photograph": "https://lh3.googleusercontent.com/p/AF1QipMSnMPLaP8NfO1UF2W5ZXous2fnGn-4_5ylQoVz=s1360-w1360-h1020",
+        "address": "near Mekkara Park, Mekkara, Thrippunithura, Ernakulam, Kerala 682301",
+        "latlng": {
+          "lat": 40.743797,
+          "lng": -73.950652
+        },
+        "cuisine_type": "Asian",
+        "operating_hours": {
+          "Monday": "5:00 pm - 10:00 pm",
+          "Tuesday": "5:00 pm - 10:00 pm",
+          "Wednesday": "5:00 pm - 10:00 pm",
+          "Thursday": "5:00 pm - 10:00 pm",
+          "Friday": "5:00 pm - 11:00 pm",
+          "Saturday": "5:00 pm - 11:00 pm",
+          "Sunday": "5:00 pm - 10:00 pm"
+        },
+        "reviews": [
+            {
+                "name": "Steve",
+                "date": "October 26, 2022",
+                "rating": 4.5,
+                "comments": "We get tasty food for low price. When consider about hygien it is low as usual thattukadas. Some staff are well behaving but cashier uncle is some rude minded he may spoil your all impressions. We can get unlimited rice . Frying remains with chicken fry is really awesome with rice must try it there. There is no specific dine in space we ate in the footpaths ."
+              },
+              {
+                "name": "ZS",
+                "date": "October 26, 2022",
+                "rating": 5,
+                "comments": "I quite liked the experience. They have a more of a streamlined approach than their competitors because they have seperate kiosks for rice/breads and another for curries etc. This lets them serve a large number of people very quickly. The food was great and the price was a steal. The only negative factor is the lack of seating provided but technically that shouldn't be a factor at all considering its a roadside stall and it adds to the vibe of the place."
+              },
+              {
+                "name": "Emily",
+                "date": "October 26, 2022",
+                "rating": 2.5,
+                "comments": "MEH. I've tried their Jersey location as well but Kang Ho Dong meat quality is severely decreasing. A Korean bbq place with whatever meat? I think NOT!"
+              }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "അമ്മച്ചിട തട്ടുകട",
+        "neighborhood": "Kochi",
+        "photograph": "https://lh3.googleusercontent.com/p/AF1QipNpZfylb0ArmNo_FisWrAtGVrACHxQDyUNEGYiv=s1360-w1360-h1020",
+        "address": "near st. Antonty's church, near haritha medical, Vaduthala, Ernakulam, Kerala 682023",
+        "latlng": {
+          "lat": 40.743394,
+          "lng": -73.954235
+        },
+        "cuisine_type": "Mexican",
+        "operating_hours": {
+          "Monday": "5:00 pm - 12:00 am",
+          "Tuesday": "5:00 pm - 12:00 am",
+          "Wednesday": "5:00 pm - 12:00 am",
+          "Thursday": "5:00 pm - 12:00 am",
+          "Friday": "5:00 pm - 12:00 am",
+          "Saturday": "11:00 am - 12:00 am",
+          "Sunday": "11:00 am - 12:00 am"
+        },
+        "reviews": [
+            {
+                "name": "Rahul Ramachandran",
+                "date": "October 26, 2022",
+                "rating": 4.5,
+                "comments": "Small resturant with variety of dishes. Tried fried rice combo & porotta-beef roast. Food is tasty and also  price is very reasonable."
+              },
+              {
+                "name": "Morgan",
+                "date": "October 26, 2022",
+                "rating": 3.5,
+                "comments": "Variety of rolls,sandwiches etc.. Really hot,spicy and delicious😍😋 Tried bread omlett beef. It was really deliciious.. 2 breads with rich fillings of beef and breads covered by onmlette and toppings by myonise, sauce and some veggies.. Loved a lot👌 and it's worth for the amount of rs. 100.."
+              },
+              {
+                "name": "Jason",
+                "date": "October 26, 2022",
+                "rating": 5,
+                "comments": "Good food with good atmosphere. I've dined here with my friends. This place have totaly different look. Not an open kitchen place like other restaurants. A small door to the kitchen and the dining area. We had ediyapam  and chilli  beef  half portion, bread omlet, chicken bread omlet. Chilli beef had good quantity. It had fresh taste and combination with ediyapam was very good. Bread omlet is something is I'm having first time in my life. And I'm not disappointed. Bread was soft. Omlet was perfectly cooked. With tomato sauce it was good."
+              }
+        ]
+      }
+    ]
+  }
+
+  
